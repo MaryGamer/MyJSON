@@ -1,10 +1,6 @@
 [
   {
-    "items": [
-      "Босоножки",
-      "Чулки",
-      "Туфли"
-    ],
+    "items": "Something",
     "photoUrl": "",
     "categoryTypeId": "1",
     "categoryName": "Мужское",
